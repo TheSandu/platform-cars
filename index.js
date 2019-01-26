@@ -1,0 +1,1 @@
+console.log("Test::platform-cars:index.js");
